@@ -1,0 +1,5 @@
+WIDTH = 470
+HEIGHT = 650
+GRID_SIZE = 8
+CELL_COUNT = GRID_SIZE ** 2
+MINE_COUNT = int(CELL_COUNT * 0.16) # 16% of cells are mines
